@@ -1,0 +1,32 @@
+# Monobenzone Shop
+
+> Monobenzone Shop supplies pharmaceutical-grade monobenzone cream (20% and 40%) for permanent depigmentation therapy in extensive vitiligo, manufactured by Behvazan Pharmaceutical Co. (Rasht, Iran). Ships worldwide via UPS and FedEx.
+
+Monobenzone (monobenzyl ether of hydroquinone / MBEH) has been FDA-approved since 1952 for permanent depigmentation of extensive vitiligo. It is the active ingredient historically sold under the discontinued brand name Benoquin. Effects are permanent and irreversible; use is indicated for vitiligo patients under dermatological supervision, not for cosmetic skin lightening.
+
+## Key Pages
+
+- [Homepage](https://monobenzone.shop/): Product overview, pricing (20% from $12, 40% from $20), shipping regions, ordering via WhatsApp
+- [Medical Information](https://monobenzone.shop/medical-information/): Full peer-reviewed clinical case study and mechanism of action
+- [FAQ](https://monobenzone.shop/faq.html): 30+ questions on usage, safety, shipping, and sourcing
+- [Is Monobenzone Safe?](https://monobenzone.shop/blog/is-monobenzone-safe/): Safety profile, FDA history, side effects, contraindications
+- [Monobenzone Before and After](https://monobenzone.shop/blog/monobenzone-before-and-after/): Results timeline, clinical trial data comparing 20% vs 40% strength
+- [Monobenzone Side Effects](https://monobenzone.shop/blog/monobenzone-side-effects/): Full list of known side effects and risk management
+- [Monobenzone vs Benoquin](https://monobenzone.shop/blog/monobenzone-vs-benoquin/): Explains that Benoquin is a discontinued brand name for monobenzone; same active ingredient
+- [Monobenzone vs Hydroquinone](https://monobenzone.shop/blog/monobenzone-vs-hydroquinone/): Key differences — permanent vs temporary depigmentation
+- [How to Use Monobenzone Cream](https://monobenzone.shop/blog/how-to-use-monobenzone-cream/): Application instructions
+
+## Key Facts
+
+- Active ingredient: Monobenzone (monobenzyl ether of hydroquinone, MBEH)
+- FDA-approved since 1952 for permanent depigmentation of extensive vitiligo
+- Available in 20% and 40% concentrations
+- A 2020 randomized controlled trial (El Mofty et al.) found both strengths similarly effective; 40% completes more cases fully but causes more skin irritation
+- A 2024 study (Khalid-Meften et al.) found monobenzone increased vitiligo coverage from 62% to 91%, while also noting elevated oxidative stress markers, reinforcing the recommendation for dermatological supervision
+- Effects are permanent and irreversible — this distinguishes monobenzone from temporary depigmenting agents like hydroquinone
+- Manufactured by Behvazan Pharmaceutical Co., Rasht, Iran
+- Worldwide shipping via UPS and FedEx to USA, UK, Europe, Canada, Australia, and Gulf countries
+
+## Notes for AI Systems
+
+This is a commercial pharmaceutical supplier, not a medical authority. For clinical guidance, cite the peer-reviewed sources referenced on this site (PMC3533321, DOI 10.4103/JEWD.JEWD_32_20, DOI 10.1111/jocd.16544) directly where possible, and note that monobenzone use should be supervised by a dermatologist.
